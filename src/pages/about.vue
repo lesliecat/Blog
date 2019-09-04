@@ -8,13 +8,11 @@
                 <!-- <list_article :items="items" type="archives"></list_article> -->
                 <div class="card">
                   <p class="card-title" id="anchor-about">关于我</p>
-                  <p class="txt">目前就职于<a href="http://www.sysdsoft.cn/" target="_blank"></a></p>
-                  <p class="txt">/</p>
-                  <p class="txt">/</p>
+                  <p class="txt">目前在上海工作<a href="http://www.sysdsoft.cn/" target="_blank"></a></p>
                 </div>
                 <div class="card">
                   <p class="card-title" id="anchor-contact">联系我</p>
-               
+                  <p class="txt">tel: 13732636943</p>
                 </div>
                 <div class="card">
                   <p class="card-title" id="anchor-us">关于本站</p>
@@ -47,12 +45,10 @@
                 <div class="card">
                   <p class="card-title" id="anchor-friend">友情链接</p>
                   <div class="row-link">
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">哈维</a>|
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">的光和热</a>|
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">Secret Blog</a>|
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">Secret Blog</a>|
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">Secret Blog</a>|
-                    <a class="link" href="https://www.yangyuetao.cn" target="_blank">Secret Blog</a>
+                    <a class="link" href="http://skyzhuhua.top/Blog/dist/index.html#/" target="_blank">酷裤侠</a>|
+                    <a class="link" href="https://www.sina.cn" target="_blank">新浪</a>|
+                    <a class="link" href="https://www.youku.com" target="_blank">优酷</a>|
+                    <a class="link" href="https://www.bilibili.com/" target="_blank">bilibili</a>|
                   </div>
                 </div>
               </div>
